@@ -6,7 +6,7 @@ This is **Draft 1**
 
 # Public site, acknowledgements, and bibliography
 
-The full text of The Theory, an ongoing blog, and more can be found at [conceptuallabor.com][http://conceptuallabor.com].
+The full text of The Theory, an ongoing blog, and more can be found at [conceptuallabor.com](http://conceptuallabor.com).
 
 [Acknowledgements](http://conceptuallabor.com/about/#acknowledgements)
 
